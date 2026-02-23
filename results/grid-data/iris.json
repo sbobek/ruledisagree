@@ -1,0 +1,23 @@
+{
+  "dnsname": "grid-data",
+  "dsname": "iris",
+  "shape": {
+    "edu_avg_grid": [
+      15,
+      8
+    ],
+    "f1_all_grid": [
+      15,
+      8
+    ],
+    "edu_avg_grid_r": [
+      15,
+      8
+    ],
+    "f1_all_grid_r": [
+      15,
+      8
+    ]
+  },
+  "saved_at": "2026-02-23T12:03:46"
+}
