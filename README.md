@@ -51,7 +51,18 @@ For each instance:
 A high CC-EDU score indicates:
 - Dense local conflicts  
 - Competing explanations  
-- Lower robustness and stability of the explanation mechanism  
+- Lower robustness and stability of the explanation mechanism
+
+# Install
+
+```
+conda create --name ccedu python=3.8
+conda activate ccedu
+conda install pip
+pip isntall -r requirements.txr
+jupyter lab
+```
+
 
 
 
