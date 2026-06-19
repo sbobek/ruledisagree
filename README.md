@@ -59,10 +59,8 @@ A high CC-EDU score indicates:
 conda create --name ccedu python=3.8
 conda activate ccedu
 conda install pip
-pip isntall -r requirements.txr
+pip install -r requirements.txt
 jupyter lab
 ```
-
-
 
 
